@@ -364,6 +364,18 @@
               "measure_humidity"
             ],
             "id": "sensor"
+          },
+          {
+            "capabilities": [
+              "measure_temperature.002"
+            ],
+            "id": "sensor"
+          },
+          {
+            "capabilities": [
+              "measure_temperature.003"
+            ],
+            "id": "sensor"
           }
         ]
 			},
