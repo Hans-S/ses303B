@@ -343,7 +343,9 @@
 			"capabilities": [
 				"measure_humidity",
 				"measure_temperature",
-				"measure_battery"
+				"measure_battery",
+				"measure_temperature.002",
+				"measure_temperature.003"
 			],
 			"mobile": {
         "components": [
